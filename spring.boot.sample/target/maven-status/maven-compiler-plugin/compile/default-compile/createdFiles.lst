@@ -1,0 +1,8 @@
+com\sonata\spring\boot\sample\repository\IBasicApplicationRepository.class
+com\sonata\spring\boot\sample\Application.class
+com\sonata\spring\boot\sample\controller\ApplicationController.class
+com\sonata\spring\boot\sample\service\BasicApplicationServiceImpl.class
+com\sonata\spring\boot\sample\service\IBasicApplicationService.class
+com\sonata\spring\boot\sample\model\Book.class
+com\sonata\spring\boot\sample\repository\BasicApplicationRepositoryImpl.class
+com\sonata\spring\boot\sample\model\Chapter.class

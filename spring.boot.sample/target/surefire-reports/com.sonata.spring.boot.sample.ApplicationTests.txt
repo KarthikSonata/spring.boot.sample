@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.sonata.spring.boot.sample.ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.597 s - in com.sonata.spring.boot.sample.ApplicationTests
